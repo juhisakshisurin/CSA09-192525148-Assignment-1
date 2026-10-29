@@ -2,8 +2,6 @@
 
 ## Programming in Java – Assignment 1 (CO1)
 
-## Programming in Java – Assignment 1 (CO1)
-
 | **Field** | **Details** |
 |---|---|
 | Assignment Title | Campus Smart-Parking System |
