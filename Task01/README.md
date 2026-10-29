@@ -5,6 +5,7 @@
 **Assignment Title:** Campus Smart-Parking System  
 **Student Name:** Juhi Surin  
 **Register Number:** 192525148
+
 **Course:** CSA0919-Programming in Java  
 **Task Number:** Task 1    
 **Java Version:** Java 27
