@@ -130,8 +130,7 @@ Direct access and free-slot search have the same asymptotic complexity in all th
 
 ## 7. Files Included
 
-- `Task2_Data_Representation_Report.docx` – Contains the complete Task 2 report: data types, floor-and-slot representation, input handling, type-conversion analysis, alternative representations and complexity comparison.
-- `Task2_Data_Representation_Report.pdf` – PDF copy of the report.
+- `Task2_Data_Representation_Report.pdf` – PDF contains the complete Task 2 report: data types, floor-and-slot representation, input handling, type-conversion analysis, alternative representations and complexity comparison.
 - `README.md` – Documents the scope, decisions, illustrative code snippets and result of Task 2.
 
 ## 8. Result
